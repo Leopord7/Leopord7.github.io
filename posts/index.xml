@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Leopord7的博客</title>
-        <link>https://Leopord7.github.io/posts/</link>
-        <description>All Posts | Leopord7的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 18 Feb 2024 01:59:26 &#43;0800</lastBuildDate><atom:link href="https://Leopord7.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://Leopord7.github.io/posts/first_post/</link>
-    <pubDate>Sun, 18 Feb 2024 01:59:26 &#43;0800</pubDate>
-    <author>Leopord7</author>
-    <guid>https://Leopord7.github.io/posts/first_post/</guid>
-    <description><![CDATA[sdaf aaa adfs 如果]]></description>
-</item>
-</channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - Leopord7的笔记</title><link>https://Leopord7.github.io/posts/</link><description>All Posts | Leopord7的笔记</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 20 Feb 2024 00:10:39 +0800</lastBuildDate><atom:link href="https://Leopord7.github.io/posts/" rel="self" type="application/rss+xml"/><item><title>Second_post</title><link>https://Leopord7.github.io/second_post/</link><pubDate>Tue, 20 Feb 2024 00:10:39 +0800</pubDate><author>Leopord7</author><guid>https://Leopord7.github.io/second_post/</guid><description>hello</description></item><item><title>First_post</title><link>https://Leopord7.github.io/first_post/</link><pubDate>Sun, 18 Feb 2024 01:59:26 +0800</pubDate><author>Leopord7</author><guid>https://Leopord7.github.io/first_post/</guid><description>sdaf aaa adfs 这是一段测试内容</description></item></channel></rss>
